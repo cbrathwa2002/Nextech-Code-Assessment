@@ -1,0 +1,5 @@
+<div data-options="dxView : { name: 'home', title: 'Home' } " >
+    <div class="home-view dx-content-background"  data-options="dxContent : { targetPlaceholder: 'content' } " >
+       <p>This is a test client for the Hacker News Web Service.  Author Clarence Brathwaite.</p>
+    </div>
+</div>
